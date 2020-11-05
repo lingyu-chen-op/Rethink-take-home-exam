@@ -3,7 +3,7 @@
 
 ## Problem 2 
 
-cd into the `/AutoCompletedSearch` folder \
+cd into the `/Problem2/AutoCompletedSearch` folder \
 `npm instal` \
 `npm start` \
 Visit `localhost:3000` 
@@ -35,7 +35,7 @@ Visit `localhost:3000`
 
 ## Problem 3 
 
-cd into the `/ShorUrl` folder \
+cd into the `/Problem3/ShorUrl` folder \
 `npm instal` \
 `node index.js` \
 Visit `localhost:8080` 
