@@ -6,7 +6,7 @@
 Run `npm start`
 Visit `localhost:3000`
 
-###Assumptions & Limitations:
+### Assumptions & Limitations:
 
 	- This is a pure front-end application. I assume source data is stored on the front-end side. 
 	Assuming currently data source is not large scale and we are not facing performance bottleneck.
@@ -31,14 +31,14 @@ Visit `localhost:3000`
 Run `node index.js`
 Visit `localhost:8080`
 
-###Assumptions 
+### Assumptions 
 
 	- Assuming the user is entering Http/Https URLs
 	- Assuming there will be no scenario that the user enters a super long URL string, where is no mechanism to check 
 	malicious requests, just normal URL checking.
 
 
-###Limitations:
+### Limitations:
 
 	- A customized URL validator is a kind of simplified version, which can not handle some complex scenarios in the real world.
 
