@@ -6,7 +6,7 @@
 cd into the `/AutoCompletedSearch` folder \
 `npm instal` \
 `npm start` \
-Visit `localhost:3000` \
+Visit `localhost:3000` 
 
 ### Assumptions & Limitations:
 
@@ -38,7 +38,7 @@ Visit `localhost:3000` \
 cd into the `/ShorUrl` folder \
 `npm instal` \
 `node index.js` \
-Visit `localhost:8080` \
+Visit `localhost:8080` 
 
 ### Assumptions 
 
