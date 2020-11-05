@@ -3,6 +3,7 @@
 
 ## Problem 2 
 
+cd into the `/AutoCompletedSearch` folder
 Run `npm start`
 Visit `localhost:3000`
 
@@ -28,6 +29,7 @@ Visit `localhost:3000`
 
 ## Problem 3 
 
+cd into the `/ShorUrl` folder
 Run `node index.js`
 Visit `localhost:8080`
 
